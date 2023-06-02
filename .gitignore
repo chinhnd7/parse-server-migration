@@ -1,0 +1,9 @@
+.encryptedKey.json
+# vscode
+.vscode
+
+# hardhat
+artifacts
+logs
+build
+node_modules
