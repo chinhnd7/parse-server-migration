@@ -45,6 +45,7 @@
     "dev:db-start": "mongodb-runner start",
     "dev:db-stop": "mongodb-runner stop",
     "gen:cloud": "ts-node ./scripts/generateCloudCode.ts",
-    "tsc": "tsc"
+    "tsc": "tsc",
+    "deploy": "vercel"
   }
 }

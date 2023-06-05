@@ -3,6 +3,7 @@
 .vscode
 
 # hardhat
+build
 artifacts
 logs
 node_modules
